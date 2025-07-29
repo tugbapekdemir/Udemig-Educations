@@ -31,5 +31,7 @@ Bu projede aşağıdaki bölümler yer almaktadır:
 ## 🎥 Ekran Kaydı
 
 Aşağıdaki gif, projenin genel görünümünü ve işleyişini göstermektedir:
-![UdemigEducationsvedier12sayfa-Kiisel-MicrosoftEdge2025-07-2803-11-49-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/eb8c5b42-6ffa-4792-8546-5d4b1ecfdbae)
+![UdemigEducationsvedier17sayfa-Kiisel-MicrosoftEdge2025-07-2920-54-21-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e8b06c92-d0a6-44d8-9cb6-f412c6a375a3)
+
+
 
